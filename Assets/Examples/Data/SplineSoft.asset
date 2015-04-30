@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73e742fbca60a22498b5348413c61612, type: 3}
+  m_Name: SplineSoft
+  m_EditorClassIdentifier: 
+  cps:
+  - position: {x: 0, y: 0, z: 0}
+  - position: {x: 17.7869949, y: 14.3037357, z: 14.083621}
+  - position: {x: 15.3507233, y: 14.7022104, z: 28.5595894}
+  - position: {x: 3.01014709, y: -1.73040974, z: 35.251812}
+  - position: {x: -12.6600533, y: 15.7086143, z: 31.5031109}
+  - position: {x: -30.312191, y: 20.3267555, z: 29.7226791}
+  - position: {x: -43.2158432, y: 11.8133821, z: 43.2324905}
+  - position: {x: -39.0510979, y: -6.61596346, z: 66.7446594}
+  - position: {x: -64.0578613, y: -11.0035181, z: 73.1491699}
+  - position: {x: -83.1273117, y: 7.20046425, z: 56.0949974}
+  - position: {x: -77.2145157, y: 5.77212381, z: 29.208025}
+  - position: {x: -90.9722061, y: -8.97967243, z: 16.0159264}
+  - position: {x: -113.635872, y: -8.74870777, z: 25.9811058}
+  - position: {x: -133.012878, y: 2.07203412, z: 19.3876972}
+  - position: {x: -138.830658, y: -2.18528271, z: .00336027145}
+  - position: {x: -121.312042, y: -22.6164932, z: -12.6142979}
+  - position: {x: -94.0782852, y: -29.384388, z: -9.40347481}
+  - position: {x: -82.830452, y: -24.2336807, z: -23.4405746}
+  - position: {x: -99.3444214, y: .883023739, z: -48.385479}
+  - position: {x: -81.356842, y: -7.44044685, z: -67.8079224}
+  - position: {x: -55.4448814, y: 1.96964729, z: -48.483345}
+  - position: {x: -22.9991207, y: -4.74891472, z: -62.3251381}
+  - position: {x: 0, y: 0, z: -42.2774696}
